@@ -15,6 +15,8 @@
 <img width="373" alt="image" src="https://github.com/user-attachments/assets/5a0e5707-20b8-4226-9fc2-f48e39c1728f">
 <img width="131" alt="image" src="https://github.com/user-attachments/assets/393f8ea3-cb76-49f4-a343-332c390f37ae">
 
+不懂可以来问我，虽然我也不敢说有多懂。:)
+
 [reference](https://mp.weixin.qq.com/s?__biz=MzkwNDI3NDEzOA==&mid=2247484993&idx=1&sn=2d8f8af3d01d932c04fed4486244e63d&chksm=c088cff4f7ff46e25ce33cd04f053fc4a3235e00d95505c193ce677e1f80ac93b79499958b89&scene=21#wechat_redirect)
 (https://bbs.huaweicloud.com/blogs/406628#H153)
 
