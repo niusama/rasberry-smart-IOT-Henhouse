@@ -1,0 +1,13 @@
+<!--pages/Huawei_IOT.wxml-->
+<text >提示信息：</text>
+<text>{{result}}</text>
+<button type="primary" bindtap="touchBtn_gettoken">获取token</button>
+<button type="default" bindtap="touchBtn_getshadow">获取设备影子</button>
+<button type="warn" bindtap="BEEP_ON">蜂鸣器开</button>
+<button type="warn" bindtap="BEEP_OFF">蜂鸣器关</button>
+<button type="warn" bindtap="RELAYS_ON">继电器开</button>
+<button type="warn" bindtap="RELAYS_OFF">继电器关</button>
+<button type="warn" bindtap="LED1_ON">LED1开</button>
+<button type="warn" bindtap="LED1_OFF">LED1关</button>
+<button type="warn" bindtap="LED2_ON">LED2开</button>
+<button type="warn" bindtap="LED2_OFF">LED2关</button>
